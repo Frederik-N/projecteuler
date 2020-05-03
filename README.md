@@ -1,1 +1,1 @@
-# projecteuler
+# Alle mine løsninger til projecteuler problemer
