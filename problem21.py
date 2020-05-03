@@ -7,10 +7,28 @@
 #
 #Evaluate the sum of all the amicable numbers under 10000.
 
-def d(n):
-    for m in range(1, n):
-        if(m%n==0):
-            print(m)
+import math
 
-d(10)
-    
+# funktion til at finde proper divisors af n
+def d(n):
+    sum = 1
+    for m in range(2, int(math.sqrt(n))):
+        if(n%m==0):
+            if (m==(n/m)):
+                sum += m 
+            else:
+                sum += (m + n/m)
+    return sum
+
+# loop til at evaluere sum af alle amicable numbers under 10000.
+sumA = 0
+amiclist = []
+for n in range(0, 10000):
+    m = d(n)
+    calcdm = d(m)
+    if(calcdm==n and d(n)==m and n != m):
+        if(n not in amiclist and m not in amiclist):
+            amiclist.append(n)
+            amiclist.append(m)
+            sumA += n + m
+print(sumA)
