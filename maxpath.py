@@ -1,3 +1,5 @@
+# gammel løsning til et problem på projecteuler
+
 A = \
 '''
 75

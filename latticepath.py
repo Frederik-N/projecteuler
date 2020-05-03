@@ -1,3 +1,5 @@
+# gammel løsning til et problem på projecteuler
+
 import numpy as np
 import math
 import scipy.special
