@@ -1,0 +1,15 @@
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\bin\Debug\net7.0\problem28.exe
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\bin\Debug\net7.0\problem28.deps.json
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\bin\Debug\net7.0\problem28.runtimeconfig.json
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\bin\Debug\net7.0\problem28.dll
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\bin\Debug\net7.0\problem28.pdb
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\problem28.csproj.AssemblyReference.cache
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\problem28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\problem28.AssemblyInfoInputs.cache
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\problem28.AssemblyInfo.cs
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\problem28.csproj.CoreCompileInputs.cache
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\problem28.dll
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\refint\problem28.dll
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\problem28.pdb
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\problem28.genruntimeconfig.cache
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem28\obj\Debug\net7.0\ref\problem28.dll
