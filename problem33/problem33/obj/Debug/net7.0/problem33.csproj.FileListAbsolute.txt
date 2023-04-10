@@ -1,0 +1,15 @@
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\bin\Debug\net7.0\problem33.exe
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\bin\Debug\net7.0\problem33.deps.json
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\bin\Debug\net7.0\problem33.runtimeconfig.json
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\bin\Debug\net7.0\problem33.dll
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\bin\Debug\net7.0\problem33.pdb
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\problem33.csproj.AssemblyReference.cache
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\problem33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\problem33.AssemblyInfoInputs.cache
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\problem33.AssemblyInfo.cs
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\problem33.csproj.CoreCompileInputs.cache
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\problem33.dll
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\refint\problem33.dll
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\problem33.pdb
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\problem33.genruntimeconfig.cache
+C:\Users\Frede\OneDrive\projecteuler\projecteuler\problem33\problem33\obj\Debug\net7.0\ref\problem33.dll
